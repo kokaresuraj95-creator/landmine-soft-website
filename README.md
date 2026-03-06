@@ -1,7 +1,7 @@
-# 🚀 Landmine Soft - Company Website
-## 📋 Project Overview
+# 🚀 Landmine Soft Website
 
-A modern, professional website . This project features a clean, enterprise-level design with smooth animations and fully responsive layout across all devices.
+## 📋 Project Overview
+A modern, professional website for Landmine Soft, an IT/Software company. This project features a clean, enterprise-level design with smooth animations and fully responsive layout across all devices.
 
 The website reflects:
 - ✅ Real-world IT / Software company presence
@@ -12,33 +12,34 @@ The website reflects:
 ---
 
 ## 📁 Folder Structure
+```
 landmine-soft-website/
 ├── public/
-│ ├── index.html
-│ └── favicon.ico
+│   ├── index.html
+│   └── favicon.ico
 ├── src/
-│ ├── components/
-│ │ ├── Navbar.jsx
-│ │ ├── Footer.jsx
-│ │ ├── Button.jsx
-│ │ ├── Card.jsx
-│ │ ├── Hero.jsx
-│ │ ├── ServicesGrid.jsx
-│ │ └── ContactForm.jsx
-│ ├── pages/
-│ │ ├── Home.jsx
-│ │ ├── About.jsx
-│ │ ├── Services.jsx
-│ │ ├── Contact.jsx
-│ │ ├── Login.jsx
-│ │ ├── Register.jsx
-│ │ ├── Careers.jsx
-│ │ └── Blog.jsx
-│ └── styles/
-│ └── index.css
+│   ├── components/
+│   │   ├── Navbar.jsx
+│   │   ├── Footer.jsx
+│   │   ├── Button.jsx
+│   │   ├── Card.jsx
+│   │   ├── Hero.jsx
+│   │   ├── ServicesGrid.jsx
+│   │   └── ContactForm.jsx
+│   ├── pages/
+│   │   ├── Home.jsx
+│   │   ├── About.jsx
+│   │   ├── Services.jsx
+│   │   ├── Contact.jsx
+│   │   ├── Login.jsx
+│   │   ├── Register.jsx
+│   │   ├── Careers.jsx
+│   │   └── Blog.jsx
+│   └── styles/
+│       └── index.css
 ├── package.json
 └── tailwind.config.js
-
+```
 
 ---
 
@@ -92,6 +93,27 @@ landmine-soft-website/
 1. **Clone the repository**
    ```bash
    git clone https://github.com/kokaresuraj95-creator/landmine-soft-website.git
+   ```
+
+2. **Navigate to project folder**
+   ```bash
    cd landmine-soft-website
+   ```
+
+3. **Install dependencies**
+   ```bash
    npm install
+   ```
+
+4. **Start the development server**
+   ```bash
    npm start
+   ```
+
+5. **Open your browser**
+   - Automatically opens at: `http://localhost:3000`
+
+6. **To stop the server**
+   - Press `Ctrl + C` in the terminal
+
+---
